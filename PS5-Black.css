@@ -1,6 +1,6 @@
 /*BEGIN PS5 Controller Styling*/
 .controller.ds4{
-    background: url(Black_SkinNo_Buttons.png);
+    background: url(https://i.imgur.com/wYovYDn.png);
     height: 850px;
     width: 1050px;
     position: absolute;
@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(disconnected.png);
+    background: url(https://i.imgur.com/OcPP3m9.png);
     height: 850px;
     width: 1050px;
     position: absolute;
@@ -28,7 +28,7 @@
 .ds4 .trigger{
     width: 241px;
     height: 114px;
-    background: url(trigger.png);
+    background: url(https://i.imgur.com/B9Zb5Vh.png);
     background-repeat: no-repeat;
 }
 .ds4 .trigger.left{ 
@@ -52,7 +52,7 @@
     height: 333px;
     left: 155px;
     top: 179px;
-    background: url(bumper.png);
+    background: url(https://i.imgur.com/Jr3p6pN.png);
     opacity: 0;
     background-repeat: no-repeat;
     position: absolute;
@@ -99,7 +99,7 @@
     background-repeat:no-repeat;
 }
 .ds4 .back, .ds4 .start{
-    background: url(back.png);
+    background: url(https://i.imgur.com/9x5COl2.png);
     width: 34px;
     height: 51px;
     background-repeat: no-repeat;
@@ -134,7 +134,7 @@
     position: absolute;
 }
 .ds4 .button.pressed{
-    background: url(button.pressed.png);
+    background: url(https://i.imgur.com/OOB8Hkv.png);
     height: 211px;
     width: 211px;
     top: 260px;
@@ -172,7 +172,7 @@
 }
 .ds4 .stick{
     position: absolute;
-    background: url(stick.png);
+    background: url(https://i.imgur.com/njYQOm5.png);
     height: 116px;
     width: 116px;
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@
     top: 462px;
 }
 .ds4 .meta.pressed {
-    background: url(meta.png);
+    background: url(https://i.imgur.com/xWViK7w.png);
     background-repeat: no-repeat;
 }
 .ds4 .dpad{
@@ -208,7 +208,7 @@
     background-repeat:no-repeat;
 }
 .ds4 .face{
-    background: url(face.png);
+    background: url(https://i.imgur.com/Bwrx7hw.png);
     position: absolute;
     top: 337px;
     left: 140px;
@@ -251,7 +251,7 @@
     left: 322px;
     height: 200px;
     width: 407px;
-    background: url(touchpad.png);
+    background: url(https://i.imgur.com/idiWEE8.png);
     background-repeat: no-repeat; 
     -webkit-animation: rotation_hue 8.5s infinite linear;
 }
@@ -261,6 +261,6 @@
     left: 330px;
     height: 213px;
     width: 391px;
-    background: url(touchpad.pressed);
+    background: url(https://i.imgur.com/0mSDfEP.png);
     background-repeat: no-repeat; 
 /*END PS5 Controller Styling*/
